@@ -73,3 +73,15 @@ nav a {
 .productos li:hover h2{
     font-size: 33px;    
 }
+
+footer {
+    text-align: center;
+    background-image: url("img/bg.jpg");
+    padding: 40px;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px;
+}
